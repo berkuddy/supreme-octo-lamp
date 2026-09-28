@@ -1,0 +1,11 @@
+!DOCTYPE html
+
+<html>
+  <head>
+    <title>the title</title>
+  </head>
+  <body>
+    <h1>a header</h1>
+    <p>words in a paragraph</p>
+  </body>
+</html>
