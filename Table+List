@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<style>
+    table, tr, td {border: 2px solid black;}
+</style>
+
+<table>
+  <caption>taken from 20 people</caption>
+<tr>
+	<th colspan="3">favorite food</td>
+</tr>
+
+<tr>
+	<td>Burgers</td>
+	<td>Pizza</td>
+	<td>Salad</td>
+</tr>
+<tr>
+	<td>8</td>
+	<td>12</td>
+	<td>0</td>
+</tr>
+</table>
+
+<ul>
+	<li>Favorite food, in order from most to least favorite</li>
+<ol>
+  <li>Pizza, 12</li>
+  <li>Burgers, 8</li>
+  <li>Salad, 0</li>
